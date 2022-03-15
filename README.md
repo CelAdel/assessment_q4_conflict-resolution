@@ -1,6 +1,3 @@
-# Conflict Resolution Example
+# Conflict Resolution Assessment
 
-This respository demonstrates an example of a merge conflict for Question 4 of
-the [GitHub Tutorial](https://github.com/aezarebski/github-tutorial)
-
-Please note that the goal of this question is to carry out the following steps: first, fork this repository, resolve the conflict, and then merge the spell-check branch into main (on your fork). The history of these changes will be visible on your fork, so you only need to provide a link to it.
+This respository has been forked from  https://github.com/aezarebski/conflict-resolution-example. In this forked repository (which I named assessment_q4_conflict-resolution), there was a spelling mistake in the code in the 'main' branch. I created a new branch called 'check-spelling', edited the code in this branch from 'Hello Beautiful Wrold' to 'Hello Beautiful World' and committed this change. I then created a new pull request to merge the 'check-spelling' branch with the 'main' branch of my fork, and then deleted the 'check-spelling' branch. 
